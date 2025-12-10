@@ -1,0 +1,15 @@
+# SuperHero Manager
+
+Projet Web L3 — Gestion de super-héros (CRUD + Auth + Upload)
+
+## Technologies
+- Backend : Node.js, Express, MongoDB, JWT, Multer
+- Frontend : React, Vite, Axios, React Router
+- Auth : JWT + Rôles (admin/editor)
+
+## Fonctionnalités principales
+- Authentification / JWT
+- CRUD Héros (ajout, modification, suppression)
+- Upload images
+- Page Détails
+- Dashboard avec filtres, recherche et tri
